@@ -11,8 +11,31 @@ Aplikasi desktop berbasis **Java Swing** + **MySQL** untuk membantu pengelolaan 
 <p align="center">
   <img 
     src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-manajemen-obat/Screenshot%20Form%20Login.png"
-    width="500"
-    alt="Preview Form Login"
+    width="220"
+    alt="Form Login"
+  />
+  <img 
+    src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-manajemen-obat/Screenshot%20Menu%20Utama.png"
+    width="220"
+    alt="Menu Utama"
+  />
+  <img 
+    src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-manajemen-obat/Screenshot%20Menu%20Obat.png"
+    width="220"
+    alt="Menu Obat"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-manajemen-obat/Screenshot%20Menu%20Tambah%20Pembelian.png"
+    width="220"
+    alt="Tambah Pembelian"
+  />
+  <img 
+    src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-manajemen-obat/Screenshot%20Menu%20Laporan%20Pembelian.png"
+    width="220"
+    alt="Laporan Pembelian"
   />
 </p>
 
