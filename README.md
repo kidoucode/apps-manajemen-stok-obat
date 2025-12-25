@@ -8,20 +8,28 @@ Aplikasi desktop berbasis **Java Swing** + **MySQL** untuk membantu pengelolaan 
 
 #### **Preview Aplikasi**
 
+#### 📸 Preview Aplikasi
+
 <p align="center">
   <img 
     src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-manajemen-obat/Screenshot%20Form%20Login.png"
-    width="220"
+    width="600"
     alt="Form Login"
   />
+</p>
+
+<p align="center">
   <img 
     src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-manajemen-obat/Screenshot%20Menu%20Utama.png"
-    width="220"
+    width="600"
     alt="Menu Utama"
   />
+</p>
+
+<p align="center">
   <img 
     src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-manajemen-obat/Screenshot%20Menu%20Obat.png"
-    width="220"
+    width="600"
     alt="Menu Obat"
   />
 </p>
@@ -29,15 +37,19 @@ Aplikasi desktop berbasis **Java Swing** + **MySQL** untuk membantu pengelolaan 
 <p align="center">
   <img 
     src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-manajemen-obat/Screenshot%20Menu%20Tambah%20Pembelian.png"
-    width="220"
+    width="600"
     alt="Tambah Pembelian"
   />
+</p>
+
+<p align="center">
   <img 
     src="https://pcobvoevxdmgjvpiorua.supabase.co/storage/v1/object/public/apps-manajemen-obat/Screenshot%20Menu%20Laporan%20Pembelian.png"
-    width="220"
+    width="600"
     alt="Laporan Pembelian"
   />
 </p>
+
 
 #### **Teknologi**
 - [MySQL 8.0.40](https://downloads.mysql.com/archives/get/p/25/file/mysql-installer-community-8.0.40.0.msi)  
